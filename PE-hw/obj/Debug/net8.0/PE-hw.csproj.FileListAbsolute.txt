@@ -1,0 +1,14 @@
+E:\Учёба\test\pe\PE-hw2\PE-hw\bin\Debug\net8.0\PE-hw.exe
+E:\Учёба\test\pe\PE-hw2\PE-hw\bin\Debug\net8.0\PE-hw.deps.json
+E:\Учёба\test\pe\PE-hw2\PE-hw\bin\Debug\net8.0\PE-hw.runtimeconfig.json
+E:\Учёба\test\pe\PE-hw2\PE-hw\bin\Debug\net8.0\PE-hw.dll
+E:\Учёба\test\pe\PE-hw2\PE-hw\bin\Debug\net8.0\PE-hw.pdb
+E:\Учёба\test\pe\PE-hw2\PE-hw\obj\Debug\net8.0\PE-hw.GeneratedMSBuildEditorConfig.editorconfig
+E:\Учёба\test\pe\PE-hw2\PE-hw\obj\Debug\net8.0\PE-hw.AssemblyInfoInputs.cache
+E:\Учёба\test\pe\PE-hw2\PE-hw\obj\Debug\net8.0\PE-hw.AssemblyInfo.cs
+E:\Учёба\test\pe\PE-hw2\PE-hw\obj\Debug\net8.0\PE-hw.csproj.CoreCompileInputs.cache
+E:\Учёба\test\pe\PE-hw2\PE-hw\obj\Debug\net8.0\PE-hw.dll
+E:\Учёба\test\pe\PE-hw2\PE-hw\obj\Debug\net8.0\refint\PE-hw.dll
+E:\Учёба\test\pe\PE-hw2\PE-hw\obj\Debug\net8.0\PE-hw.pdb
+E:\Учёба\test\pe\PE-hw2\PE-hw\obj\Debug\net8.0\PE-hw.genruntimeconfig.cache
+E:\Учёба\test\pe\PE-hw2\PE-hw\obj\Debug\net8.0\ref\PE-hw.dll

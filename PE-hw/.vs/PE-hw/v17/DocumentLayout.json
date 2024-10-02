@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\\u0423\u0447\u0451\u0431\u0430\\test\\pe\\PE-hw2\\PE-hw\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8FB1F874-453C-4B6F-B497-0B0D25E7E5F0}|PE-hw.csproj|e:\\\u0443\u0447\u0451\u0431\u0430\\test\\pe\\pe-hw2\\pe-hw\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FB1F874-453C-4B6F-B497-0B0D25E7E5F0}|PE-hw.csproj|solutionrelative:main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cs",
+              "DocumentMoniker": "E:\\\u0423\u0447\u0451\u0431\u0430\\test\\pe\\PE-hw2\\PE-hw\\main.cs",
+              "RelativeDocumentMoniker": "main.cs",
+              "ToolTip": "E:\\\u0423\u0447\u0451\u0431\u0430\\test\\pe\\PE-hw2\\PE-hw\\main.cs",
+              "RelativeToolTip": "main.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwAkAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T13:12:14.806Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
